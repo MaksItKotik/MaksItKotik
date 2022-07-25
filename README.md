@@ -1,5 +1,6 @@
-- Hi, I'm Maks.
-I'm softwareengineer
+- Hi, I'm Max.
+I'm Software Developer
+
 
 <!---
 MaksItKotik/MaksItKotik is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
